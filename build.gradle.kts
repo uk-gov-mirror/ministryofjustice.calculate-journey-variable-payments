@@ -27,7 +27,7 @@ dependencies {
   implementation("com.beust:klaxon:5.6")
   implementation("com.amazonaws:aws-java-sdk-s3:1.12.797")
   implementation("com.amazonaws:aws-java-sdk-sts:1.12.797")
-  implementation("io.sentry:sentry-spring-boot-starter:8.57.0")
+  implementation("io.sentry:sentry-spring-boot-starter:8.58.0")
   implementation("net.javacrumbs.shedlock:shedlock-spring:7.10.1")
   implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:7.10.1")
   implementation("nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:4.0.1")
